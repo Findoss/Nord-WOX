@@ -1,7 +1,7 @@
 # Nord WOX
 
 ![Github All Releases](https://img.shields.io/github/downloads/Findoss/Nord-WOX/total.svg?style=flat-square)
-![license](https://img.shields.io/github/license/Findoss/WOX.svg?style=flat-square)
+![license](https://img.shields.io/github/license/Findoss/Nord-WOX.svg?style=flat-square)
 
 An arctic, north-bluish clean and elegant minimal WOX UI.  
 Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color palette.<br>
