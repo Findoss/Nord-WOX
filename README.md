@@ -20,10 +20,10 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
   3. Select font `Bahnschrift`
 
 ## Contributing
-Please read [CONTRIBUTING.md](https://github.com/Findoss/Nord-WOX/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Findoss/Nord-WOX/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
  * Nikita Stroganov - Initial work
 
 ## License
-[MIT](https://github.com/Findoss/Nord-WOX/LICENSE). Copyright (c) Findoss.
+[MIT](https://github.com/Findoss/Nord-WOX/blob/master/LICENSE). Copyright (c) Findoss.
